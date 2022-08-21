@@ -6,4 +6,4 @@
 
 <h2>gitlek</h2>
 
-[min github](http;//www.github.com/moha1633)
+[min github](http://github.com/moha1633)
