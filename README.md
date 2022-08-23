@@ -30,4 +30,4 @@ alert("Hello!")
 
 #user story 03
 
-![Real Madrid logo!](/assets/Bilder/Real_Madrid_CF.svg"Real Logo")  
+![The San Juan Mountains are beautiful!](/assets/images/san-juan-mountains.jpg "San Juan Mountains")  
