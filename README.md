@@ -22,7 +22,10 @@ i
 
 ## user story o1
 
-function Hello() 
-{
+*function Hello()
+
+*{
 alert("Hello!")
 }
+
+
